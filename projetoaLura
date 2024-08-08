@@ -23,3 +23,15 @@
     </body>
 
     </html>
+
+
+body {
+    color: black;
+    background: rgb(255, 255, 255,0.425);
+}
+
+ header {
+
+    border - bottom: solid 2px rgb (42,122,228);s
+ }
+
